@@ -44,6 +44,16 @@ This dataset contains detailed information on homicide reports. Each row represe
 ![1output](https://github.com/user-attachments/assets/13dce111-54e0-4d4d-b32d-c6f431d90610)
 
 
+![output2](https://github.com/user-attachments/assets/6c510c81-efcd-4702-99bf-cf4b3889eed6)
+
+
+![output3](https://github.com/user-attachments/assets/37927f29-2934-4da1-b2eb-0fb16b3862e8)
+
+
+![output4](https://github.com/user-attachments/assets/66e6ec71-620a-48bb-b038-3af97e35d009)
+
+
+![output55](https://github.com/user-attachments/assets/f701e1df-5fca-4526-b32f-d817310bfa09)
 
 
 ## **Conclusion**

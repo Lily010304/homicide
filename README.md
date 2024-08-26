@@ -46,6 +46,7 @@ This dataset contains detailed information on homicide reports. Each row represe
 
 
 ### Which city has the highest number of homicides?
+### And
 ### Which state has the highest total number of homicides?
 ![output2](https://github.com/user-attachments/assets/6c510c81-efcd-4702-99bf-cf4b3889eed6)
 

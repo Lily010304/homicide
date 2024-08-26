@@ -41,7 +41,12 @@ This dataset contains detailed information on homicide reports. Each row represe
 
 
 
-**Conclusion**
+![1output](https://github.com/user-attachments/assets/13dce111-54e0-4d4d-b32d-c6f431d90610)
+
+
+
+
+## **Conclusion**
 
 
 Through a detailed analysis of the homicide data, several critical insights have emerged, highlighting patterns in victim and perpetrator demographics, weapon usage, and geographic distribution. These findings provide a deeper understanding of the dynamics surrounding homicides, particularly in relation to age, gender, and location.

@@ -40,19 +40,28 @@ This dataset contains detailed information on homicide reports. Each row represe
 | **Record Source**     | The source of the record (e.g., FBI).                                        |
 
 
-
+### How does the distribution of ages differ between victim and perpetrator?
 ![1output](https://github.com/user-attachments/assets/13dce111-54e0-4d4d-b32d-c6f431d90610)
 
 
+
+### Which city has the highest number of homicides?
+### Which state has the highest total number of homicides?
 ![output2](https://github.com/user-attachments/assets/6c510c81-efcd-4702-99bf-cf4b3889eed6)
 
 
+
+### Are there any particular years with a higher concentration of victims within specific age ranges?
 ![output3](https://github.com/user-attachments/assets/37927f29-2934-4da1-b2eb-0fb16b3862e8)
 
 
+
+### Are there any particular years with a higher concentration of perpetrators within specific age ranges?
 ![output4](https://github.com/user-attachments/assets/66e6ec71-620a-48bb-b038-3af97e35d009)
 
 
+
+### How does the relationship between victim age and perpetrator age vary across different weapon types?
 ![output55](https://github.com/user-attachments/assets/f701e1df-5fca-4526-b32f-d817310bfa09)
 
 
